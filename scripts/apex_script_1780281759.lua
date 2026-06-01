@@ -1,0 +1,1 @@
+game:GetService("Lighting").ClockTime = 14
